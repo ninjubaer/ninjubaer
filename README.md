@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninjubaer&label=Profile%20views&color=0e75b6&style=flat" alt="ninjubaer" /> </p>
 
-- 🔭 I’m currently working on [Natro Macro](https://github.com/natroteam/natromacro)
+- 🔭 Actively developing [Natro Macro](https://github.com/natroteam/natromacro)
 
-- 🌱 I’m currently learning **Rust, Tauri, SvelteKit and C-languages**
+- 🌱 I’m currently learning **Zig, Rust and C**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ninjubaer](https://github.com/ninjubaer)
 
-- 💬 Ask me about **AutoHotkey**
+- 💬 Ask me about **AutoHotkey or Zig**
 
 - 📫 How to reach me: [**Discord**](https://discord.com/users/727937385274540046)
 
