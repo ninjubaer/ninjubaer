@@ -5,11 +5,9 @@
 
 - 🔭 Actively developing [Natro Macro](https://github.com/natroteam/natromacro)
 
-- 🌱 I’m currently learning **Zig, Rust and C**
+- 🌱 I love working with **Zig**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ninjubaer](https://github.com/ninjubaer)
-
-- 💬 Ask me about **AutoHotkey or Zig**
 
 - 📫 How to reach me: [**Discord**](https://discord.com/users/727937385274540046)
 
